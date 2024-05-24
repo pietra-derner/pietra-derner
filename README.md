@@ -1,2 +1,2 @@
-# Olá, eu sou a Pietra.
+# Olá, eu sou a Pietra Derner 👋🏻
 🚀 Uma <b>desenvolvedora backend</b> em formação!
